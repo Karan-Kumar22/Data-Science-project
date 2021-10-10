@@ -4,4 +4,4 @@ This package includes two probability distribution function: Gaussian and Binomi
 
 # Installation
 
-pip install karan_distribution
+pip install karan_distributions
