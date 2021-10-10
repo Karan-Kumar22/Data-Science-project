@@ -1,1 +1,1 @@
-# Data-Science-project Respository
+# Data-Science-Project Respository
