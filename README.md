@@ -1,7 +1,7 @@
-#Summary 
+# Summary 
 
-This package includes two probability distribution function: Gaussian and Binomial
+This package includes two probability distribution functions: Gaussian and Binomial
 
-#Installation
+# Installation
 
-pip install karan_distribution
+pip install karan_distributions
