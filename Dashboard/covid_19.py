@@ -12,6 +12,7 @@ import datetime
 
 
 app = dash.Dash(__name__)
+server = app.server
 
 cases_data = pd.read_csv("https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/jhu/full_data.csv")
 vaccine_data = pd.read_csv("https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/us_state_vaccinations.csv")
